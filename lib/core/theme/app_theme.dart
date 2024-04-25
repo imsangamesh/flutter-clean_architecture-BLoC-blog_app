@@ -179,7 +179,7 @@ class AppTheme {
   static DividerThemeData dividerTheme([bool isDark = false]) {
     return const DividerThemeData().copyWith(
       color: primaryColor(isDark).withAlpha(50),
-      space: dividerHt,
+      space: kDividerHt,
       indent: 10,
       endIndent: 10,
     );

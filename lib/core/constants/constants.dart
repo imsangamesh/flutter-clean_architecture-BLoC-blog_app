@@ -20,4 +20,4 @@ class BoxKeys {
 
 const double kBR = 16;
 const double kBannerHt = 170;
-const double dividerHt = 20;
+const double kDividerHt = 20;

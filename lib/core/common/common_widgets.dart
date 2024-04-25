@@ -22,7 +22,7 @@ class Loader extends StatelessWidget {
 }
 
 class FullDivider extends StatelessWidget {
-  const FullDivider({this.height = dividerHt, super.key});
+  const FullDivider({this.height = kDividerHt, super.key});
 
   final double height;
 

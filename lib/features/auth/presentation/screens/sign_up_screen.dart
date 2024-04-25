@@ -1,5 +1,5 @@
-import 'package:blog_app/core/common/widgets/app_textfield.dart';
 import 'package:blog_app/core/common/widgets/buttons.dart';
+import 'package:blog_app/core/common/widgets/custom_textfield.dart';
 import 'package:blog_app/core/constants/app_text_styles.dart';
 import 'package:blog_app/core/extensions/extensions.dart';
 import 'package:blog_app/core/utils/nav_utils.dart';

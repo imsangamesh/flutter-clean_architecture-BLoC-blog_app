@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:blog_app/core/common/common_widgets.dart';
-import 'package:blog_app/core/common/widgets/app_textfield.dart';
+import 'package:blog_app/core/common/widgets/custom_textfield.dart';
 import 'package:blog_app/core/common/widgets/image_picker_box.dart';
 import 'package:blog_app/core/constants/colors.dart';
 import 'package:blog_app/core/extensions/extensions.dart';
